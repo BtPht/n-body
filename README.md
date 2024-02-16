@@ -1,6 +1,8 @@
 # n-body
 N-body simulation using Raylib
 
+<img align="center" style="width=400px" src="https://github.com/BtPht/n-body/blob/master/recordings/400x400_200bodies.gif" width="420px">
+
 Build
 -----
 
